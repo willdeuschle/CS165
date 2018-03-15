@@ -1,0 +1,73 @@
+Test 1 Errors:
+Test 2 Errors:
+Test 3 Errors:
+Test 4 Errors:
+Test 5 Errors:
+Test 6 Errors:
+Test 7 Errors:
+Test 8 Errors:
+Test 9 Errors:
+Test 10 Errors:
+Test 11 Errors:
+Test 12 Errors:
+Test 13 Errors:
+Test 14 Errors:
+Test 15 Errors:
+Test 16 Errors:
+Test 17 Errors:
+Test 18 Errors:
+Test 19 Errors:
+Test 20 Errors:
+Test 21 Errors:
+Test 22 Errors:
+Test 23 Errors:
+Test 24 Errors:
+Test 25 Errors:
+Test 26 Errors:
+Test 27 Errors:
+Test 28 Errors:
+Test 29 Errors:
+Test 30 Errors:
+Test 31 Errors:
+Test 32 Errors:
+Test 33 Errors:
+Test 34 Errors:
+Test 35 Errors:
+Test 36 Errors:
+Test 37 Errors:
+1,5d0
+< -5
+< -4
+< -3
+< -2
+< -1
+7,9c2,6
+< -333
+< -222
+< -111
+---
+> -1
+> -2
+> -3
+> -4
+> -5
+109a107,109
+> -111
+> -222
+> -333
+Test 38 Errors:
+Test 39 Errors:
+1,5d0
+< -50
+< -40
+< -30
+< -20
+< -10
+24a20,24
+> -10
+> -20
+> -30
+> -40
+> -50
+Test 40 Errors:
+Test 41 Errors:
