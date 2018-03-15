@@ -1,4 +1,5 @@
-# CS165 Fall 2015
+# My implementation of a column-store database for Fall 2017 CS165
+## CS165 Fall 2017
 
 ## Introduction
 
